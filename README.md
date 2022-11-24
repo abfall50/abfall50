@@ -39,7 +39,7 @@
 
 - **[IP Address Tracker](https://github.com/abfall50/ip_address_tracker)**:
 
-    <p>A simple IP address tracker realized with MapBox</p>
+    <p>A simple IP address tracker realized with MapBox and Ipify</p>
 
 <br>
 
