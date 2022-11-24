@@ -10,7 +10,7 @@
 - Graduated from **42 school in Paris**
 - Looking for a Front-End developer job
 - [Personal website](https://www.abdoulayefall.com)
-- Here is [my resume](/resume/resume.pdf)
+- Here is [my resume](./source//resume/resume.pdf)
 
 <br>
 
