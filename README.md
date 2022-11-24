@@ -27,7 +27,7 @@
     
 - **[NFT Game](https://github.com/abfall50/nft_game)**:
 
-   <p>A NFT game made to learn more about Web3. Build with <a href="https://buildspace.so/">buildspace</a></p>
+   <p>A NFT game made to learn more about Web3. Build with <a href="https://buildspace.so/">buildspace</a>.</p>
 
 <br>
 
@@ -39,7 +39,7 @@
 
 - **[IP Address Tracker](https://github.com/abfall50/ip_address_tracker)**:
 
-    <p>A simple IP address tracker realized with MapBox and Ipify</p>
+    <p>A simple IP address tracker realized with MapBox and Ipify.</p>
 
 <br>
 
