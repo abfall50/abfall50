@@ -4,7 +4,6 @@
 	
 ## **I am ...**
 
-<br>
 
 - A passionate **Front-End developer**
 - Graduated from **42 school in Paris**
@@ -12,36 +11,26 @@
 - [Personal website](https://www.abdoulayefall.com)
 - Here is [my resume](./source//resume/resume.pdf)
 
-<br>
 
 ## <b>My Projects</b>
-<br>
 
 <p align="center">
 
 - **[Secubox](https://github.com/abfall50/secubox)**:
     
     <p>A Full-Stack web application made as a freelancer for the winning project of an engineering school competition. I was able to create a captive portal including an interface for customers, professionals and administrators.</p>
-
-<br>   
     
 - **[NFT Game](https://github.com/abfall50/nft_game)**:
 
    <p>A NFT game made to learn more about Web3. Build with <a href="https://buildspace.so/">buildspace</a>.</p>
 
-<br>
-
 - **[Transcendance](https://github.com/abfall50/ft_transcendance)**:
 
     <p>Final project of my course at 42 school realized with 3 other peers. It's a FullStack web application of the online pong game.</p>
-    
-<br>
 
 - **[IP Address Tracker](https://github.com/abfall50/ip_address_tracker)**:
 
     <p>A simple IP address tracker realized with MapBox and Ipify.</p>
-
-<br>
 
 </p>
 
