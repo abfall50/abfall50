@@ -31,6 +31,9 @@
 - **[IP Address Tracker](https://github.com/abfall50/ip_address_tracker)**:
 
     <p>A simple IP address tracker realized with MapBox and Ipify.</p>
+    
+- **Other**:
+    <p>Project realised at 42 school: <a href="https://github.com/abfall50/reach3">reach3</a>, <a href="https://github.com/abfall50/containers">containers</a>, <a href="https://github.com/abfall50/irc">irc</a>, <a href="https://github.com/abfall50/cube3D">cube3D</a>, <a href="https://github.com/abfall50/minishell">minishell</a> and <a href="https://github.com/abfall50/inception">inception</a></p>
 
 </p>
 
